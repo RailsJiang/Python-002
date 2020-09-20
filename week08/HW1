@@ -1,0 +1,11 @@
+1. 扁平序列
+str
+
+2. 容器序列
+list, tuple, dict, collections.deque
+
+3. 可变序列
+list, dict, collections.deque
+
+4. 不可变序列
+tuple, str
